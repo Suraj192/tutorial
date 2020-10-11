@@ -1,1 +1,2 @@
 this is new branch \ and this could be new line
+this is 3rd line to check the conflict
